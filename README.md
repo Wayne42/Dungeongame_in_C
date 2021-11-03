@@ -24,8 +24,15 @@ Verschiedene Level auswählen:
 ```./dungeon.exe level/1.txt```
 
 # Steuerung
-Über die W, A, S, D Tasten
+Über die 
+W, A, S, D 
+Tasten
 
 # Spielziel
 Man spielt die Spielfigur "S", und versucht den Ausgang "A" zu erreichen. 
 Ab dem 2. Level sind Monster, welche das Spiel etwas "anspruchsvoller" machen...
+
+# Würde ich das nochmal so machen?
+Nein, das ist eine besondere Art "Spaghetti Bolognese" 🍝, und auch, wenn ich da echt Spaß daran hatte es so schnell es geht fertig zu bekommen... bereue ich ein paar Entscheidungen, die das ganze etwas hässlich gemacht haben. 
+
+Dafür, dass es mein erstes "größeres" C Projekt war, ist es in Ordnung. 
