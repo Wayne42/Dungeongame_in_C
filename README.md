@@ -13,16 +13,12 @@ Wichtig hierbei ist, dass eventuell nötige Packages wie "valgrind" installiert 
 
 # Spiel spielen (Linux)
 
-```./dungeon
-```
+```./dungeon```
 Verschiedene Level auswählen: 
-```./dungeon.exe level/1.txt
-```
+```./dungeon.exe level/1.txt```
 
 # Spiel spielen (Windows)
 
-```./dungeon.exe
-```
+```./dungeon.exe```
 Verschiedene Level auswählen: 
-```./dungeon.exe level/1.txt
-```
+```./dungeon.exe level/1.txt```
