@@ -22,3 +22,10 @@ Verschiedene Level auswählen:
 ```./dungeon.exe```
 Verschiedene Level auswählen: 
 ```./dungeon.exe level/1.txt```
+
+# Steuerung
+Über die W, A, S, D Tasten
+
+# Spielziel
+Man spielt die Spielfigur "S", und versucht den Ausgang "A" zu erreichen. 
+Ab dem 2. Level sind Monster, welche das Spiel etwas "anspruchsvoller" machen...
