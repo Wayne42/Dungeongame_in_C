@@ -5,6 +5,7 @@ Entwickelt und getestet über Linux, aber übers WSL (Linux Subsystem über Wind
 
 # Projekt selbst bauen:
 1.) Dateien runterladen
+
 2.) ```make compile``` bzw. ```make compile_windows``` ausführen
 
 Wichtig hierbei ist, dass eventuell nötige Packages wie "valgrind" installiert sein müssen, falls nicht bereits vorhanden.
